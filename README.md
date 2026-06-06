@@ -47,7 +47,7 @@ pip install requests beautifulsoup4 ebooklib
 
 ### Step 2 - Paste the links into the script
 
-Open `Novelsite scraper.py` in any text editor and find the `RAW_CHAPTERS` variable near the top of the file:
+Open `Novel543-Scraper.py` in any text editor and find the `RAW_CHAPTERS` variable near the top of the file:
 
 ```python
 RAW_CHAPTERS = """第1章 第一個瘋子 | https://...
